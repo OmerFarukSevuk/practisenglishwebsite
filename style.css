@@ -167,3 +167,50 @@ h2{
     border-style: solid;
     border-radius: 15px;
 }
+
+.grammarHead {
+    font-size: 35px;
+    width: auto;
+    height: auto;
+    margin-left: 50px;
+
+}
+.grammars {
+    border-style: solid;
+    border-radius: 20px;    
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.grammarExp {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.grammarExa {
+    font-size: 20px;
+    color: rgb(195, 184, 184);
+    border-radius: 10px;
+    background-color: gray;
+    padding: 20px;
+}
+
+.forms p{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.forms h5{
+    display: inline-block;
+}
+
+.forms {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: auto;
+    height: 50px;
+}
